@@ -1,3 +1,3 @@
-# First directory
+# Second directory
 
-This is my first repository pushed from my local setup 
+This is my second repository pushed from my local setup 
